@@ -1,1 +1,6 @@
 hello.txt
+Ghbdstn
+mjngjutg
+
+Hello, git!
+Hello, git rebase!
